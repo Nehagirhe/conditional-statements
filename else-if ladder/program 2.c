@@ -14,4 +14,4 @@ int main(int argc, char *argv[]) {
 	else
 	printf("It Is Not In Any Condition");
 	return 0;
-}rintf("")
+}
