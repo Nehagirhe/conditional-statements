@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main(int argc, char *argv[]) {
 	int m =-5;
 	if(m>0)
