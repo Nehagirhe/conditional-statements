@@ -1,4 +1,4 @@
-//C Program To Check Whether A Number Is Even Or Odd
+// C Program To Check Whether A Number Is Even Or Odd
 #include <stdio.h>
 #include <stdlib.h>
 
