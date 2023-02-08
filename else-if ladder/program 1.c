@@ -1,4 +1,4 @@
-//c program to read the age of a candidate and determine whether it is eligible for casting his/her own vote.
+//C Program To Read The Age Of A Candidate And Determine Whether It Is Eligible For Casting His/Her Own Vote.
 
 #include <stdio.h>
 #include <stdlib.h>
