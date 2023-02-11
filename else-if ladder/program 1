@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) 
+{
 	int age;
 	printf("Enter Your Age: ");
 	scanf("%d",&age);
@@ -11,7 +12,7 @@ int main(int argc, char *argv[]) {
 	printf("Sorry!! Wait Just One Year.");
 	else if(age <18)
 	printf("Sorry!! You Are Not Eligible For Casting Your Vote.");
-    else
-    printf("It Is Not In My Condition");
+        else
+        printf("It Is Not In My Condition");
 	return 0;
 }
