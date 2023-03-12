@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main() {
 	int a;
 	printf("enter any number: ");
 	scanf("%d",&a);
