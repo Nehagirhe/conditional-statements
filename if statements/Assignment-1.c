@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main()
+	
 {
 	int a,b;
 	printf("Enter Any Two Numbers: ");
@@ -9,6 +10,5 @@ int main()
 
 	if(a==b)
 	printf("Number1 And Number2 Are Equal ");
-	
 return 0;
 }
